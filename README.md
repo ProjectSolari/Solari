@@ -16,8 +16,9 @@ In the future, we intend to expand it to other areas of the universe beyond our 
 You can join our communites, or speak with us here:
 
 <ul>
-<li><a href="https://discord.gg/r6amp5unE6" target="_blank">Solari Discord</a></li>
+<li><a href="mailto:email.solari@gmail.com" target="_blank">Email</a> (email.solar@gmail.com)</li>
 <li><a href="https://projectsolari.space" target="_blank">Our website</a> (projectsolari.space)</li>
+<li><a href="https://discord.gg/r6amp5unE6" target="_blank">Discord</a></li>
 <li><a href="https://twitter.com/psolari" target="_blank">Twitter</a></li>
 </ul>
 
